@@ -12,8 +12,6 @@ up to its n<sup>th</sup> term (parameter).
 * You will only be given natural numbers as arguments.
 
 ### Examples:
-```
-1 → 1 → "1.00"
-2 → 1 + 1/4 → "1.25"
-5 → 1 + 1/4 + 1/7 + 1/10 + 1/13 → "1.57"
-```
+> `1` → `1` → **"1.00"**<br> 
+> `2` → `1 + 1/4` → **"1.25"**<br>
+> `5` → `1` + `1/4 + 1/7 + 1/10 + 1/13` → **"1.57"**

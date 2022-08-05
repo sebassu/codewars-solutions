@@ -15,8 +15,8 @@ in this kata.
 
 ### For example:
 ```C#
-Kata.IsAscOrder(new int[]{1,2,4,7,19}) == true
-Kata.IsAscOrder(new int[]{1,2,3,4,5}) == true
-Kata.IsAscOrder(new int[]{1,6,10,18,2,4,20}) == false
-Kata.IsAscOrder(new int[]{9,8,7,6,5,4,3,2,1}) == false // numbers are in DESCENDING order
+Kata.IsAscOrder(new int[] { 1,2,4,7,19 }) == true
+Kata.IsAscOrder(new int[] { 1,2,3,4,5 }) == true
+Kata.IsAscOrder(new int[] { 1,6,10,18,2,4,20 }) == false
+Kata.IsAscOrder(new int[] { 9,8,7,6,5,4,3,2,1 }) == false // numbers are in descending order
 ```

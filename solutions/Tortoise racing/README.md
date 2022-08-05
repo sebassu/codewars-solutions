@@ -16,7 +16,5 @@ hours, minutes and seconds rounded down to the nearest second. If `v1 >= v2`
 then return `null`.
 
 ### Examples:
-```Typescript
-race(720, 850, 70) => [0, 32, 18] or "0 32 18"
-race(80, 91, 37)   => [3, 21, 49] or "3 21 49"
-```
+> `race(720, 850, 70) => [0, 32, 18] or "0 32 18"`<br>
+> `race(80, 91, 37)   => [3, 21, 49] or "3 21 49"`
